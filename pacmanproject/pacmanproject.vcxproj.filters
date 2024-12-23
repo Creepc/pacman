@@ -18,8 +18,5 @@
     <ClCompile Include="pacman.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="copypacman.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
